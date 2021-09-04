@@ -1,24 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Chit Login</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+h2
+{
 
-
-<body>
-    
-    <form action="">
-    <h2>Sign in</h2>
-    <label for="username">Username:</label>
-    <input name="username" id="username" cols="30" rows="10" type="text"></input>
-
-    <br>
-    <label for="password">Password:</label>
-    <input name="password" id="password" type="password" cols="30" rows="10"></input>
-
-    </form>
-</body>
-</html>
+    background-color: blue;
+}
